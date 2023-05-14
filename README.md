@@ -1,1 +1,2 @@
 # House_price_prediction
+House price prediction refers to the process of estimating the future value of residential properties based on various factors and historical data. It involves the application of data analysis, statistical modeling, and machine learning techniques to forecast housing prices accurately. The aim is to assist homebuyers, sellers, real estate agents, and investors in making informed decisions.
